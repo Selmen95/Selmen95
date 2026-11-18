@@ -38,4 +38,6 @@ Showcase version of a promotion analytics pipeline, derived from real client wor
 
 ## Elsewhere
 
+Web page: [selmen95.github.io](https://selmen95.github.io)
+
 Email is the best way to reach me: [selmen.friakh@gmail.com](mailto:selmen.friakh@gmail.com)
