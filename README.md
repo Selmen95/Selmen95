@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Selmen Friakh, quantitative finance, data and AI" width="100%">
+  <a href="https://selmen95.github.io"><img src="assets/banner.svg" alt="Selmen Friakh, quantitative finance, data and AI" width="100%"></a>
 </p>
+
+<p align="center"><a href="https://selmen95.github.io"><b>Open my web page: selmen95.github.io</b></a></p>
 
 I am a student in the CentraleSupelec x ESSEC Data Sciences & Business Analytics double degree (graduating June 2027). I build models and data products, and I like problems where the maths has to survive contact with messy data: commodity curves, pricing, purchasing, analytics.
 
