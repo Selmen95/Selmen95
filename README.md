@@ -29,6 +29,10 @@ Showcase version of a promotion analytics pipeline, derived from real client wor
 `Python` `SQL` `pandas`
 
 
+### [argos](https://github.com/Selmen95/argos)
+Case-intake prototype built with a classmate for the AI x Justice hackathon organised by Microsoft France (October 2026, 2nd place): a citizen describes a dispute, is guided through a structured file, and hands it to a lawyer. This repository is the state of 15 October, with 155 tests.
+`TypeScript` `Next.js` `SQLite`
+
 ## Stack
 
 | Area | Tools |
